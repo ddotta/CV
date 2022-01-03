@@ -1,4 +1,2 @@
-﻿Depot qui contient mon CV 2019.  
+Depot qui contient le code source de mon CV 2021.  
 Créé avec le package pagedown !
-
-Une version HTML est directement [accessible](http://aqew8w.pages.innovation.insee.eu/cv/)
