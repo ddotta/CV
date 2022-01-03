@@ -1,0 +1,153 @@
+---
+title: CV de Damien Dotta
+author: Damien Dotta
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/resume.css']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# Reglage du proxy pour les polices
+Sys.setenv(http_proxy="http://proxy-rie.http.insee.fr:8080")
+Sys.setenv(https_proxy="http://proxy-rie.http.insee.fr:8080") #mettre les 2
+```
+
+Aside
+================================================================================
+
+<center>![Damien Dotta](damien_dotta_rond.jpg){width=70%}</center>
+*Promu attaché en 2018 via l'examen RAEP Insee (major)*
+
+Informations
+--------------------------------------------------------------------------------
+
+- 35 ans - Pacsé - 1 enfant
+- <i class="fa fa-phone-square"></i> 05.61.36.63.79
+- <i class="fa fa-envelope-square"></i> damien.dotta@insee.fr
+- <i class="fa fa-gitlab"></i> [gitlab/aqew8w (insee)](https://gitlab.insee.fr/aqew8w)
+
+<i class="fa fa-globe"></i> Langues
+--------------------------------------------------------------------------------
+
+- **Anglais** : niveau B2  
+- **Italien** : niveau C1  
+
+<i class="fa fa-graduation-cap"></i> Formation initiale 
+--------------------------------------------------------------------------------
+
+- 2007 : Licence d'économie
+*Université Aix-Marseille II*
+- 2004 : Baccalauréat S
+
+<i class="fa fa-newspaper"></i> Publications
+--------------------------------------------------------------------------------
+
+La liste des publications auxquelles j'ai contribué est consultable [**ici**](https://www.epsilon.insee.fr/jspui/browse?type=author&value=Dotta%2C+Damien&sort_by=2&order=DESC&rpp=20&etal=0&submit_browse=Mettre+%C3%A0+jour).
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+- Code source de ce CV  
+sur mon [**gitlab public**](https://gitlab.com/damien.dotta/cv).
+
+
+Main
+================================================================================
+
+Damien Dotta {#title}
+--------------------------------------------------------------------------------
+
+### Attaché de l'Insee {#description}
+
+Poste actuel 
+--------------------------------------------------------------------------------
+
+### Chargé d’investissements PSAR
+
+Insee Occitanie – PSAR Études Économiques Régionales
+
+Toulouse
+
+Actuel -  2017
+
+- Participe à la conception statistique des outils spécialisés dans les statistiques d'entreprises, l'analyse de l'économie locale ou l'analyse financière.
+- En charge de la ré-ingéniérie technique des investissements
+
+
+Expérience professionnelle {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Chargé d’études régionales
+
+Insee Occitanie – Division Services de l'État        
+
+Toulouse
+
+2017 -  2014
+
+- Pilote d’études de l’action régionale en offre de base ou en partenariat.
+- Apporte un appui aux Acteurs Publics Régionaux (APR) sur les thématiques liées à l'emploi
+
+### Chargé d’études régionales
+
+Insee PACA – Division Études et Expertise
+
+Marseille
+
+2014 -  2011
+
+- Réalise et valorise des études répondant aux préoccupations des APR.  
+- Participe à l’animation du réseau des APR et à la présentation de l’offre de l’Insee auprès de ces acteurs
+- Référent infra-communal et Politique de la Ville
+
+### Chargé d'investissements PSAR
+
+Insee Hauts-de-France - PSAR Emploi Population         
+
+Lille
+
+2011 -  2008
+
+- Participe à la conception, et notamment aux développements informatiques, des outils mis en oeuvre par le PSAR Emploi-Population sur la démographie et l'emploi à destination des chargés d'études en DR
+
+Compétences {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Informatique
+
+N/A
+
+N/A
+
+N/A
+
+Git, Markdown, HTML, CSS, API, intégration continue
+
+### Statistique et Cartographique
+
+N/A
+
+N/A
+
+N/A
+
+R, SAS, SQL, Qgis, Oceanis  
+
+### Formateur national R depuis 2015
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+- **Data visualisation** et **cartographie**
+- **Lisibilité , maintenablité et reproductibilité** du code
+- **Création de packages**
+- **Conception d'interfaces web (Shiny)**
+:::
