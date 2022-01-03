@@ -28,6 +28,7 @@ Informations
 - <i class="fa fa-phone-square"></i> 05.61.36.63.79
 - <i class="fa fa-envelope-square"></i> damien.dotta@insee.fr
 - <i class="fa fa-gitlab"></i> [gitlab/aqew8w (insee)](https://gitlab.insee.fr/aqew8w)
+- <i class="fa fa-linkedin"></i> [mon profil linkedin](https://www.linkedin.com/in/damien-dotta-078a18101/)
 
 <i class="fa fa-globe"></i> Langues
 --------------------------------------------------------------------------------
