@@ -18,7 +18,7 @@ Sys.setenv(https_proxy="http://proxy-rie.http.insee.fr:8080") #mettre les 2
 Aside
 ================================================================================
 
-<center>![Damien Dotta](damien_dotta_rond.jpg){width=70%}</center>
+<center>![Damien Dotta](photo_profil.jpg){width=70%}</center>
 *Promu attaché en 2018 via l'examen RAEP Insee (major)*
 
 Informations
