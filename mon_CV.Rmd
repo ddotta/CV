@@ -24,7 +24,7 @@ Aside
 Informations
 --------------------------------------------------------------------------------
 
-- 35 ans - Pacsé - 1 enfant
+- 36 ans - Pacsé - 1 enfant
 - <i class="fa fa-phone-square"></i> 05.61.36.63.79
 - <i class="fa fa-envelope-square"></i> damien.dotta@insee.fr
 - <i class="fa fa-gitlab"></i> [gitlab/aqew8w (insee)](https://gitlab.insee.fr/aqew8w)
@@ -53,7 +53,7 @@ Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 - Code source de ce CV  
-sur mon [**gitlab public**](https://gitlab.com/damien.dotta/cv).
+sur mon [**gitlab public**](https://github.com/ddotta/CV).
 
 
 Main
