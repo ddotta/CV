@@ -53,7 +53,7 @@ Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 - Code source de ce CV  
-sur mon [**gitlab public**](https://github.com/ddotta/CV).
+sur mon [**github public**](https://github.com/ddotta/CV).
 
 
 Main
