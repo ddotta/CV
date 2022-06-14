@@ -147,7 +147,7 @@ N/A
 
 ::: concise
 - **Data visualisation** et **cartographie**
-- **Lisibilité , maintenablité et reproductibilité** du code
+- **Bonnes pratiques, maintenablité et reproductibilité** du code
 - **Création de packages**
 - **Conception d'interfaces web (Shiny)**
 :::
