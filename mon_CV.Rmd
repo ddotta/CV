@@ -137,7 +137,7 @@ N/A
 
 R, SAS, SQL, Qgis, Oceanis  
 
-### Formateur national R depuis 2015
+### Formateur national R de 2015 à 2019
 
 N/A
 
