@@ -1,1 +1,2 @@
-Pour réduire la taille du pdf de mon CV, utiliser le site pdf resizer (bloqué à l'Insee)
+Pour réduire la taille du pdf de mon CV, utiliser le site pdf resizer : https://pdfresizer.com/resize
+Pour info, il est bloqué à l'Insee.
