@@ -1,0 +1,148 @@
+---
+title: CV de Damien Dotta
+author: Damien Dotta
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['../css/resume.css']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+<center>![Damien Dotta](photo_profil.jpg){width=70%}</center>
+*Promu attaché en 2018 via l'examen RAEP Insee (major)*
+
+Informations
+--------------------------------------------------------------------------------
+
+- 36 ans - Pacsé - 1 enfant
+- <i class="fa fa-phone-square"></i> 05.61.36.63.79
+- <i class="fa fa-envelope-square"></i> damien.dotta@insee.fr
+- <i class="fa fa-gitlab"></i> [gitlab/aqew8w (insee)](https://gitlab.insee.fr/aqew8w)
+- <i class="fa fa-github"></i> [github/ddotta (open source)](https://github.com/ddotta)
+- <i class="fa fa-linkedin"></i> [Profil linkedin](https://www.linkedin.com/in/damien-dotta-078a18101/)
+
+<i class="fa fa-globe"></i> Langues
+--------------------------------------------------------------------------------
+
+- **Anglais** : niveau B2  
+- **Italien** : niveau C1  
+
+<i class="fa fa-graduation-cap"></i> Formation initiale 
+--------------------------------------------------------------------------------
+
+- 2007 : Licence d'économie
+*Université Aix-Marseille II*
+
+<i class="fa fa-newspaper"></i> Publications
+--------------------------------------------------------------------------------
+
+La liste des publications auxquelles j'ai contribué est consultable [**ici**](https://www.epsilon.insee.fr/jspui/browse?type=author&value=Dotta%2C+Damien&sort_by=2&order=DESC&rpp=20&etal=0&submit_browse=Mettre+%C3%A0+jour).
+
+<i class="fa fa-slideshare"></i> Réseau
+--------------------------------------------------------------------------------
+
+Formateur national R de 2015 à 2019
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+- Code source de ce CV  
+sur mon [**github public**](https://github.com/ddotta/CV).
+
+
+Main
+================================================================================
+
+Damien Dotta {#title}
+--------------------------------------------------------------------------------
+
+### Attaché de l'Insee {#description}
+
+Poste actuel 
+--------------------------------------------------------------------------------
+
+### Chargé d’investissements PSAR
+
+Insee Occitanie – PSAR Études Économiques Régionales
+
+Toulouse
+
+Actuel -  2017
+
+- Participe à la conception statistique des outils spécialisés dans les statistiques d'entreprises, l'analyse de l'économie locale ou l'analyse financière.
+- En charge de la ré-ingéniérie technique des investissements
+
+
+Expérience professionnelle {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Chargé d’études régionales
+
+Insee Occitanie – Division Services de l'État        
+
+Toulouse
+
+2017 -  2014
+
+- Pilote d’études de l’action régionale en offre de base ou en partenariat.
+- Apporte un appui aux Acteurs Publics Régionaux (APR) sur les thématiques liées à l'emploi
+
+### Chargé d’études régionales
+
+Insee PACA – Division Études et Expertise
+
+Marseille
+
+2014 -  2011
+
+- Réalise et valorise des études répondant aux préoccupations des APR.  
+- Participe à l’animation du réseau des APR et à la présentation de l’offre de l’Insee auprès de ces acteurs
+- Référent infra-communal et Politique de la Ville
+
+### Chargé d'investissements PSAR
+
+Insee Hauts-de-France - PSAR Emploi Population         
+
+Lille
+
+2011 -  2008
+
+- Participe à la conception, et notamment aux développements informatiques, des outils mis en oeuvre par le PSAR Emploi-Population sur la démographie et l'emploi à destination des chargés d'études en DR
+
+Compétences {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Informatique
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+- Création de packages R et d'applications web Shiny
+- Accompagnement des agents dans la mise en place de Git
+- Contributeurs travaux open source ([utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), démarche Propre...)
+- Mise en oeuvre des bonnes pratiques sur la maintenabilité et la reproductibilité du code (intégration continue, tests unitaires...)
+:::
+
+### Divers
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+- Analyse de données
+- Data visualisation
+- Pilotage de projets statistiques
+- Restitution de résultats d'études statistiques
+- Rédaction de documentation technique (bookdown, quarto, pagedown...)
+:::
