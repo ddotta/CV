@@ -1,0 +1,55 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: "4.0.4"
+
+      - name: Setup pandoc (necessary for rmarkdown::render)
+        uses: r-lib/actions/setup-pandoc@v1
+
+      - name: Restore R dependencies cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: R-${{ runner.os }}-${{ hashFiles('DESCRIPTION') }}
+          restore-keys: R-${{ runner.os }}-
+
+      - name: Install R deploy dependencies
+        run: make install_deploy_dependencies
+
+      - name: Remove gitignore files from output folder for deploy
+        run: make remove_deploy_gitignores
+
+      - name: Render CV
+        run: make render_CV
+
+      - name: Deploy web version to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: github-pages
+          folder: output/github-pages
+
+      - name: Print CV
+        run: make print_CV
+
+      # TODO: Maybe use something simpler?
+      - name: Deploy pdf version to GitHub print branch
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: print
+          folder: output/print
