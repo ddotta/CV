@@ -127,7 +127,7 @@ N/A
 ::: concise
 - Création de packages R et d'applications web Shiny
 - Accompagnement sur la mise en place de Git
-- Contributeurs travaux open source ([utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), démarche Propre...)
+- Contributeurs travaux open source ([utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), [démarche Propre](https://git.lab.sspcloud.fr/propre-conj/conj.region))
 - Bonnes pratiques sur la maintenabilité et la reproductibilité du code (intégration continue, tests unitaires...)
 :::
 
@@ -140,7 +140,6 @@ N/A
 N/A
 
 ::: concise
-- Analyse de données
 - Data visualisation
 - Pilotage de projets statistiques
 - Restitution de résultats d'études
