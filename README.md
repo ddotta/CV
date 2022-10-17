@@ -37,6 +37,5 @@ The project structure is the following:
 - `rmarkdown/`: Contains .Rmd (source) files.
 - `.gitignore`: List of files that git should ignore.
 - `DESCRIPTION`: Meta information for R projects/packages. Mainly used to install dependencies with `remotes::install_deps`.
-- `LICENSE`: License file. Complements MIT license.
 - `makefile`: List of useful commands.
 - `README.md`: This very file you are reading.
