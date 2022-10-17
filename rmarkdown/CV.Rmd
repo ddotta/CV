@@ -50,8 +50,8 @@ Formateur national R de 2015 à 2019
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-- Code source de ce CV  
-sur mon [**github public**](https://github.com/ddotta/CV).
+- CV déployé via les Github Actions  
+de mon [**dépôt github **](https://github.com/ddotta/CV).
 
 
 Main
@@ -126,9 +126,9 @@ N/A
 
 ::: concise
 - Création de packages R et d'applications web Shiny
-- Accompagnement des agents dans la mise en place de Git
+- Accompagnement sur la mise en place de Git
 - Contributeurs travaux open source ([utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), démarche Propre...)
-- Mise en oeuvre des bonnes pratiques sur la maintenabilité et la reproductibilité du code (intégration continue, tests unitaires...)
+- Bonnes pratiques sur la maintenabilité et la reproductibilité du code (intégration continue, tests unitaires...)
 :::
 
 ### Divers
@@ -143,6 +143,6 @@ N/A
 - Analyse de données
 - Data visualisation
 - Pilotage de projets statistiques
-- Restitution de résultats d'études statistiques
-- Rédaction de documentation technique (bookdown, quarto, pagedown...)
+- Restitution de résultats d'études
+- Rédaction de documentation technique (quarto, pagedown...)
 :::
