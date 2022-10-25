@@ -143,5 +143,5 @@ N/A
 - Data visualisation
 - Pilotage de projets statistiques
 - Présentations d'études
-- Rédaction de documentation technique (quarto, pagedown...)
+- Rédaction de documentation technique (quarto, pagedown, création de templates...)
 :::
