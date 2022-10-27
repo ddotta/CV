@@ -135,7 +135,7 @@ h1, h2{
     font-size: 0.8rem;
 }
 
-/* nouveautés Kim*/
+/* nouveautés*/
 #description{
   position: relative;
 }
@@ -148,6 +148,22 @@ h1, h2{
     font-style: normal;
     font-weight: 100;
 }
+
+/* Style pour la photo de profil */
+.image-cropper {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 70%;
+}
+.profile-pic {
+  display: inline;
+  height: 100%;
+}
+
 /* fin nouveautés
 /*** categorial blocks ***/
 

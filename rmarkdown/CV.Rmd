@@ -12,7 +12,7 @@ output:
 Aside
 ================================================================================
 
-<center>![Damien Dotta](photo_profil.jpg){width=70%}</center>
+<div class="image-cropper"><img src="photo_profil.jpg" alt="Damien Dotta" class="profile-pic"></div>
 *Promu attaché en 2018 via l'examen RAEP Insee (major)*
 
 Informations
@@ -60,7 +60,7 @@ Main
 Damien Dotta {#title}
 --------------------------------------------------------------------------------
 
-### Attaché de l'Insee {#description}
+### Attaché statisticien de l'Insee {#description}
 
 Poste actuel 
 --------------------------------------------------------------------------------
