@@ -12,7 +12,7 @@ output:
 Aside
 ================================================================================
 
-<div class="image-cropper"><img src="photo_profil.jpg" alt="Damien Dotta" class="profile-pic"></div>
+<div class="image-cropper"><img src="photo_profil.jpg" alt="Damien Dotta"></div>
 *Promu attaché en 2018 via l'examen RAEP Insee (major)*
 
 Informations
