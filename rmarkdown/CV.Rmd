@@ -111,7 +111,7 @@ Lille
 
 2011 -  2008
 
-- Participe à la conception, et notamment aux développements informatiques, des outils mis en oeuvre par le PSAR Emploi-Population sur la démographie et l'emploi à destination des chargés d'études en DR
+- Participe à la conception et aux développements informatiques des outils diffusés par le PSAR sur la démographie et l'emploi à destination des chargés d'études en DR
 
 Compétences {data-icon=laptop}
 --------------------------------------------------------------------------------
