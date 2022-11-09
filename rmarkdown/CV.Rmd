@@ -120,19 +120,15 @@ Compétences {data-icon=laptop}
 
 N/A
 
-N/A
-
 ::: concise
 - Création de packages R et d'applications web Shiny
 - Accompagnement sur la mise en place de Git
-- Contributeur travaux open source ([utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), [démarche Propre](https://git.lab.sspcloud.fr/propre-conj/conj.region))
-- Bonnes pratiques sur la reproductibilité du code (intégration continue, tests unitaires...)
-- Nouveaux formats de données interopérables (parquet, duckdb...)
+- Contributeur travaux open source ([utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), [conj.region](https://git.lab.sspcloud.fr/propre-conj/conj.region))
+- Bonnes pratiques reproductibilité du code (intégration continue, tests unitaires)
+- Nouveaux formats de données interopérables (parquet, duckdb)
 :::
 
 ### Divers
-
-N/A
 
 N/A
 
