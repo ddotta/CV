@@ -120,6 +120,10 @@ Compétences {data-icon=laptop}
 
 N/A
 
+N/A
+
+N/A
+
 ::: concise
 - Création de packages R et d'applications web Shiny
 - Accompagnement sur la mise en place de Git
@@ -129,6 +133,10 @@ N/A
 :::
 
 ### Divers
+
+N/A
+
+N/A
 
 N/A
 
