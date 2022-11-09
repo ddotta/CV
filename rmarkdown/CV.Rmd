@@ -129,7 +129,7 @@ N/A
 - Accompagnement sur la mise en place de Git
 - Contributeur travaux open source ([utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), [conj.region](https://git.lab.sspcloud.fr/propre-conj/conj.region))
 - Bonnes pratiques reproductibilité du code (intégration continue, tests unitaires)
-- Nouveaux formats de données interopérables (parquet, duckdb)
+- Nouveaux formats de données interopérables (parquet, duckdb))
 :::
 
 ### Divers
