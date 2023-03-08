@@ -127,8 +127,9 @@ N/A
 ::: concise
 - Création de packages R et d'applications web Shiny
 - Accompagnement sur la mise en place de Git
-- Contributeur travaux open source ([parquetize](https://github.com/ddotta/parquetize), [utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol), [conj.region](https://git.lab.sspcloud.fr/propre-conj/conj.region))
-- Bonnes pratiques reproductibilité du code (intégration continue, tests unitaires)
+- Contributeur travaux open source ([parquetize](https://github.com/ddotta/parquetize),
+([tablexlsx](https://github.com/ddotta/tablexlsx), ([Awesome Polars list](https://github.com/ddotta/awesome-polars), [utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol).
+- Bonnes pratiques reproductibilité du code (CI/CD, tests unitaires)
 - Nouveaux formats de données interopérables (parquet, duckdb))
 :::
 
