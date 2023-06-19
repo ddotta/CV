@@ -128,9 +128,10 @@ N/A
 - Création de packages R et d'applications web Shiny
 - Accompagnement sur la mise en place de Git
 - Contributeur travaux open source ([parquetize](https://github.com/ddotta/parquetize),
-[tablexlsx](https://github.com/ddotta/tablexlsx), [Awesome Polars list](https://github.com/ddotta/awesome-polars), [utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol).
-- Bonnes pratiques reproductibilité du code (CI/CD, tests unitaires)
-- Nouveaux formats de données interopérables (parquet, duckdb))
+[tablexlsx](https://github.com/ddotta/tablexlsx), [Awesome Polars list](https://github.com/ddotta/awesome-polars), 
+[Cookbook Polars for R](https://github.com/ddotta/cookbook-rpolars), 
+[utilitr](https://github.com/inseefrlab/utilitr), [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol)...
+- Bonnes pratiques sur la reproductibilité du code (CI/CD, tests unitaires, linter...)
 :::
 
 ### Divers
