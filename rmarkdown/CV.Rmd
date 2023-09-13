@@ -18,10 +18,9 @@ Aside
 Informations
 --------------------------------------------------------------------------------
 
-- 36 ans - Pacsé - 1 enfant
-- <i class="fa fa-phone-square"></i> 05.61.36.63.79
-- <i class="fa fa-envelope-square"></i> damien.dotta@insee.fr
-- <i class="fa fa-gitlab"></i> [gitlab/aqew8w (insee)](https://gitlab.insee.fr/aqew8w)
+- 37 ans - Pacsé - 1 enfant
+- <i class="fa fa-phone-square"></i> 05.61.28.92.31
+- <i class="fa fa-envelope-square"></i> damien.dotta@agriculture.gouv.fr
 - <i class="fa fa-github"></i> [github/ddotta (open source)](https://github.com/ddotta)
 - <i class="fa fa-linkedin"></i> [Profil linkedin](https://www.linkedin.com/in/damien-dotta-078a18101/)
 
@@ -65,45 +64,47 @@ Damien Dotta {#title}
 Poste actuel 
 --------------------------------------------------------------------------------
 
-### Chargé d’investissements PSAR
+### Chef de projets informatiques
 
-Insee Occitanie – PSAR EER
+Ministère de l'Agriculture
 
-Toulouse
+Auzeville
 
-Actuel -  2017
+Actuel -  2023
 
-- Participe à la conception statistique des outils spécialisés dans les statistiques d'entreprises, l'analyse de l'économie locale ou l'analyse financière.
-- En charge de la ré-ingéniérie technique des investissements
+- Pilote et développe les composants applicatifs du SI du Ministère.
+- Assistance à maîtrise d'ouvrage auprès des responsables d'opérations statistiques.
 
 
 Expérience professionnelle {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Chargé d’études régionales
 
-Insee Occitanie – Division Services de l'État        
+### Chargé d’investissements
+
+Insee Occitanie – PSAR EER
 
 Toulouse
 
-2017 -  2014
+2023 -  2017
 
-- Pilote d’études de l’action régionale.
-- Apporte un appui aux Acteurs Publics Régionaux (APR) sur les thématiques liées à l'emploi
+- Participe à la conception statistique des outils spécialisés dans les statistiques d'entreprises, l'analyse de l'économie locale ou l'analyse financière.
+- En charge de la ré-ingéniérie technique des investissements.
 
 ### Chargé d’études régionales
 
-Insee PACA – Division Études et Expertise
+Insee PACA puis Occitanie        
 
-Marseille
+Marseille/Toulouse
 
-2014 -  2011
+2017 -  2011
 
-- Réalise et valorise des études répondant aux préoccupations des APR.  
+- Pilote, réalise et valorise d'études
 - Participe à l’animation du réseau des APR et à la présentation de l’offre de l’Insee auprès de ces acteurs
-- Référent infra-communal et Politique de la Ville
+- Référent infra-communal, Politique de la Ville puis emploi public
 
-### Chargé d'investissements PSAR
+
+### Chargé d'investissements
 
 Insee Hauts-de-France - PSAR Emploi Population         
 
