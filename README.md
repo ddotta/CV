@@ -6,7 +6,7 @@ Up-to-date versions are available for [web](https://ddotta.github.io/CV/CV) and 
 
 ## How to run
 ### Locally
-If your OS is linux based, you can render (convert .Rmd to .html) and print (convert .html to .pdf) the CV locally by running the following commands in your terminal:
+If your OS is based on linux, you can render (convert .Rmd to .html) and print (convert .html to .pdf) the CV locally by running the following commands in your terminal:
 
 ```
 git clone https://github.com/ddotta/CV.git
