@@ -44,7 +44,7 @@ La liste des publications auxquelles j'ai contribué est consultable [**ici**](h
 <i class="fa fa-slideshare"></i> Réseau
 --------------------------------------------------------------------------------
 
-Formateur national R de 2015 à 2019
+Formateur national R depuis 2015
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
