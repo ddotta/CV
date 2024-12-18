@@ -23,7 +23,7 @@ This will:
 - Render the CV.
 - Print the CV.
 
-After that, the CV and resume (one-page CV) will be available at `output/` folder.
+After that, the CV and resume will be available at `output/` folder.
 
 ### GitHub Actions
 You don't have to do nothing. I set up a workflow, so every time I push to the `main` branch, GitHub Actions will deploy the last version to `github-pages` (.html files) and `print` (.pdf files) branches. From the `github-pages` branch, GitHub Pages will also update the associated web version.
