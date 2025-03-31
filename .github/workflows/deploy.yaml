@@ -23,7 +23,7 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v1
 
       - name: Restore R dependencies cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ${{ env.R_LIBS_USER }}
           key: R-${{ runner.os }}-${{ hashFiles('DESCRIPTION') }}
