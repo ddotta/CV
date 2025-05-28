@@ -38,4 +38,4 @@ The project structure is the following:
 - `.gitignore`: List of files that git should ignore.
 - `DESCRIPTION`: Meta information for R projects/packages. Mainly used to install dependencies with `remotes::install_deps`.
 - `makefile`: List of useful commands.
-- `README.md`: This very file you are reading.
+- `README.md`: The file you are reading.
