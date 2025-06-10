@@ -2,7 +2,7 @@
 This repository contains my personal CV, created as a R project.  
 It's created with the R package {pagedown} and deployed with GitHub Actions.
 
-Up-to-date versions are available for [web](https://ddotta.github.io/CV/CV) and [Pdf](https://github.com/ddotta/CV/raw/print/CV.pdf).
+Up-to-date versions are available for [web](https://ddotta.github.io/CV/CV) and [pdf](https://github.com/ddotta/CV/raw/print/CV.pdf).
 
 ## How to run
 ### Locally
