@@ -1,4 +1,4 @@
-# CV
+ # CV
 This repository contains my personal CV, created as a R project.  
 It's created with the R package {pagedown} and deployed with GitHub Actions.
 
